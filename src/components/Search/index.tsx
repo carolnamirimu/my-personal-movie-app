@@ -1,9 +1,12 @@
 import React from 'react';
-
+import NavigationBar from './NavigationBar';
+import SearchBar from './SearchBar';
 const Search = () => {
     return (
         <div>
-            Search
+            <NavigationBar />
+            <SearchBar />
+           
         </div>
     );
 };

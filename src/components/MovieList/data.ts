@@ -1,4 +1,5 @@
-export const movieData = {
+export const movieData =
+{
     "page": 1,
     "results": [
         {

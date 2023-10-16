@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+* {
+        background-color: rgb(68, 67, 67);
+        font-family: sans-serif;
+        color: aliceblue;
+    }
+
+nav{
+    display: flex;
+   justify-content: center;
+   justify-content: space-around;
+   
+}
